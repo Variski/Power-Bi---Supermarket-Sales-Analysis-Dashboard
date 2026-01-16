@@ -14,4 +14,4 @@ Interactive Power BI dashboard analyzing supermarket sales performance.
 - Interactive filters by customer type and time
 
 ## Preview
-![Dashboard Preview](screenshots/dashboard-preview.png)
+![Dashboard Preview](Hasil/dashboard-preview.png)
